@@ -1,0 +1,4 @@
+drf
+django
+pymysql
+mysqlclient
